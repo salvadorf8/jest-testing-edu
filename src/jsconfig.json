@@ -1,0 +1,9 @@
+// creating a .env file so that we can use absolute imports in our project. Recently, Create React App has changed how this is supported.
+// Instead of creating the .env file, creating this jsconfig.json file in the root of the project.
+
+// {
+//     "compilerOptions": {
+//         "baseUrl": "src"
+//     },
+//     "include": ["src"]
+// }
